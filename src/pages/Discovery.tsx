@@ -161,7 +161,7 @@ const Discovery = () => {
           TV Shows
         </button>
       </div>
-      <div className="lg:flex gap-5 flex-col">
+      <div className="lg:flex-row gap-5 flex-col">
         <Filter />
         <main className="flex-1">
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4 gap-gutter">
