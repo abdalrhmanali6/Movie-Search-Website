@@ -4,7 +4,7 @@ A modern movie and TV discovery app built with React, TypeScript, Vite, and the 
 
 ## Live Demo
 
-Deployed URL: `TODO: add deployed site URL here`
+Deployed URL: [Cinma Verse](https://cinmaverse.vercel.app/)
 
 ## Features
 
